@@ -1,0 +1,15 @@
+{
+  "name": "rtk-tutorial",
+  "version": "1.0.0",
+  "description": "Though React Redux is difficult to understand.\r Practicing all the concepts you've been reading about lately. You will create a store, start defining and dispatching actions, and write your first reducers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "redux": "^4.2.1"
+  }
+}
